@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "8e9e98f39c5f5ce6a9c4992c3b7bf3cd3014b3db0046a66537b3d3176161924d"
+            "sha256": "57622e4c6e2e05a4c15826153c52dbc66f12b7cf16d232e7d939d5db585f1d66"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -99,6 +99,10 @@
             ],
             "markers": "python_version >= '3.7'",
             "version": "==5.5.2"
+        },
+        "cb-django-appointment-local": {
+            "editable": true,
+            "file": "modules/django_appointment_local"
         },
         "certifi": {
             "hashes": [
