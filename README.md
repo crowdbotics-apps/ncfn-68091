@@ -62,6 +62,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-appointment-local](modules/appointment-local)
 - [django-appointment-local](backend/modules)
 - [django-articles](backend/modules)
+- [react-native-articles](modules/articles)
 
 # Getting started: Frontend
 
