@@ -64,6 +64,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-articles](backend/modules)
 - [react-native-articles](modules/articles)
 - [react-native-audio-player](modules/audio-player)
+- [react-native-qr-code](modules/qr-code)
 
 # Getting started: Frontend
 
